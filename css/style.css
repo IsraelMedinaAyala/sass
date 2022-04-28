@@ -1,0 +1,7 @@
+.navBar {
+  display: flex;
+  background-color: rgba(104, 240, 104, 0.784); }
+  .navBar a {
+    text-decoration: none; }
+    .navBar a:hover {
+      color: rgba(255, 255, 0, 0.63); }
